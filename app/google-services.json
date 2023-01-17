@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658018490626",
+    "project_id": "my-application-cfdb3",
+    "storage_bucket": "my-application-cfdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658018490626:android:459b84c448eb38d1cc0a1b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658018490626-l5e1fokqhvs2aobav577l8k0ivvuccae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsM4twG58Q8f3uzC1u-3uRXPxuYvAOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658018490626-l5e1fokqhvs2aobav577l8k0ivvuccae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
